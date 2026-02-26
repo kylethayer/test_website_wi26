@@ -1,0 +1,9 @@
+p {
+    background-color: lightgray;
+}
+
+a {
+    border: black 1px solid;
+    padding: 4px;
+    font-weight: bold;
+}
